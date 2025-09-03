@@ -1,6 +1,6 @@
 # Hi, I'm João Lucas Moura de Oliveira 👋
 
-I’m passionate about **Data Science and Machine Learning**. My journey started when I built my first machine learning project using **Python** and **AutoGluon**, and since then, my enthusiasm has only grown.
+I’m passionate about **Data Science and Machine Learning**. My journey started when I built my first machine learning project using **Python** and **AutoGluon** (the *Competitive-Intelligence-Classifier*), and since then, my enthusiasm has only grown.
 
 Currently, I am focused on expanding my knowledge and practical experience in data science and machine learning, while strengthening my skills in **Python**, **SQL**, and **Go**. I enjoy working with these tools and exploring how they can solve meaningful problems.
 
