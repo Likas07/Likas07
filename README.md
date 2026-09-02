@@ -4,7 +4,7 @@ Backend engineer working in Go and TypeScript, with a focus on AI agents, contex
 
 I build systems for real operations: sales-planning tooling that reconciles data across ERPs, portals and spreadsheets; a Go + Svelte order and quoting system integrating shipping carriers and supplier stock; and agent infrastructure: a coding-agent harness, MCP servers, and context engines with permissions, provenance and audit built in.
 
-## Selected work
+## Some of my work
 
 **[Daedalus](https://github.com/Likas07/Daedalus)**: coding-agent harness in Bun/TypeScript, originally derived from Pi. Custom context compaction, schema-validated executable plans with dependency and file-conflict checking, task packets for subagents, managed worktrees, local GUI. Currently paused.
 
